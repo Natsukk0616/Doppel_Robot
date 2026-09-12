@@ -46,9 +46,6 @@ SERVO_SCAN [max_id]
 
 `CH2/CH3` 仍需重点观察零值样本；出现非零数据不等于问题已经完全放行。
 
-## 不包含的设备
-
-D435 和 SX02 是 USB 相机，运行在 Jetson/Linux 侧，不能通过 ESP32 Arduino 草图直接采集。本地已有 `d435_capture`、`d435_detection` 和 Jetson 相机测试程序；本综合程序只负责 ESP32 侧传感器与显示设备。
 
 ## 注意
 
