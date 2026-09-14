@@ -1,0 +1,30 @@
+[33m< 5179d38[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Ignore large Jetson wheel packages
+[33m< 7a751eb[m Add new files
+[33m> a032d16[m[33m ([m[1;31morigin/main[m[33m)[m Upload Doppel Robot project files
+[33m< a831012[m Upload Doppel Robot project files
+[33m> ae39160[m Remove C++ header and source files
+[33m< ef4a01e[m Remove C++ header and source files
+[33m> 8087eaf[m Delete integration/esp32_comprehensive_test/epd4in2_V2.cpp
+[33m< 7e22c6a[m Delete integration/esp32_comprehensive_test/epd4in2_V2.cpp
+[33m> f9c0439[m Delete epdpaint.cpp
+[33m< 2d2d3f0[m Delete epdpaint.cpp
+[33m> 0e36b04[m Delete epdif.h
+[33m< a5bed24[m Delete epdif.h
+[33m> e081089[m Delete epdif.cpp
+[33m< f65b438[m Delete epdif.cpp
+[33m> eb61283[m Delete epd4in2_V2.h
+[33m< ad7c6ab[m Delete epd4in2_V2.h
+[33m> ff659c4[m Delete epd4in2_V2.cpp
+[33m< 7a6b047[m Delete epd4in2_V2.cpp
+[33m> 9e2da61[m Add ESP32 comprehensive sensor and servo test
+[33m< c758899[m Add ESP32 comprehensive sensor and servo test
+[33m> 99e4881[m Update README.md
+[33m< e467914[m Update README.md
+[33m> 2133408[m Delete Arduino Code for Esp32-s3
+[33m< a85c73d[m Delete Arduino Code for Esp32-s3
+[33m> 0567a69[m Add files via upload
+[33m< 97fa685[m Add files via upload
+[33m> d7b65a1[m Create Arduino Code for Esp32-s3
+[33m< 764a8e5[m Create Arduino Code for Esp32-s3
+[33m> dae8233[m Initial commit
+[33m< 0636202[m Initial commit
